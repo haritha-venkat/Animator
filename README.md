@@ -69,7 +69,8 @@ public class exp6 : MonoBehaviour
 
 
 ## Output:
-![exp6](https://github.com/Leann4468/Animator/assets/121165979/0870b9af-9a5a-4f25-b52c-3a253bb49f76)
+
+![WhatsApp Image 2023-11-07 at 09 45 39_8c39c120](https://github.com/haritha-venkat/Animator/assets/121285701/8bbad0e4-c791-483d-82f5-a6a4b3308516)
 
 
 ## Result:
